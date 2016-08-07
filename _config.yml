@@ -1,16 +1,16 @@
-typography_spectrum: 0.9628791173454374
+typography_spectrum: 0.46638740017078817
 color:
-  brandStrength: 0.7002772784326226
-  lightness: 0.16196032264269888
-  saturation: 0.27353059663437307
-  rhythmicContrast: 0.7733870272058994
+  brandStrength: 0.003929134923964739
+  lightness: 0.8331252357456833
+  saturation: 0.05774485250003636
+  rhythmicContrast: 0.26802373374812305
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.20875878282822669
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.30678534507751465
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e184ff-91bb-4e21-ba59-d9b949c44724.png
 name: Shiftd Hockey
