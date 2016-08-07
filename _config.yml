@@ -1,16 +1,18 @@
-typography_spectrum: 0.4016566553618759
+typography_spectrum: 0.9628791173454374
 color:
-  brandStrength: 0.8667293391190469
-  lightness: 0.9725218075327575
-  saturation: 0.7545820337254554
-  rhythmicContrast: 0.30234033591113985
+  brandStrength: 0.7002772784326226
+  lightness: 0.16196032264269888
+  saturation: 0.27353059663437307
+  rhythmicContrast: 0.7733870272058994
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 layout_spectrum: 0.20875878282822669
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e184ff-91bb-4e21-ba59-d9b949c44724.png
 name: Shiftd Hockey
 navigation:
   - name: What We Do
